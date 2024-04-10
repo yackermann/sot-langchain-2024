@@ -1,5 +1,8 @@
 # Summer of Tech 2024 - Langchain Crash Course
 
+## Slides
+
+https://docs.google.com/presentation/d/1rkBH-UmFB8s7rDRFkDqFAltE8utg6xL0B0UDsmTdqrs/
 
 ## Introduction
 
