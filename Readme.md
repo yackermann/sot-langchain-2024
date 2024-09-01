@@ -1,4 +1,4 @@
-# Summer of Tech 2024 - Langchain Crash Course
+# Summer of Tech 2024 - Langchain Crash Course P1
 
 ## Slides
 
