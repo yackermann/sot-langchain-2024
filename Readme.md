@@ -1,9 +1,10 @@
-# Summer of Tech 2024 - Langchain Crash Course P1
+# Summer of Tech 2024 - Langchain Courses
 
 ## Slides
 
-https://docs.google.com/presentation/d/1rkBH-UmFB8s7rDRFkDqFAltE8utg6xL0B0UDsmTdqrs/
-
+ - Part 1 - https://docs.google.com/presentation/d/1rkBH-UmFB8s7rDRFkDqFAltE8utg6xL0B0UDsmTdqrs/
+ - Part 2 - https://docs.google.com/presentation/d/1cYOmb76yW8Of_p4L5q_J_QRoGUvUVMap4fbpoPpUUYw/
+ 
 ## Introduction
 
 To get started, you will need to do some setup. First and foremost you need to know that all examples are done in Jupyter Notebook format. You can use Jupyter Lab, or simply Visual Studio Code. 
@@ -50,5 +51,5 @@ If you use [Ollama](https://ollama.com/library) see model specific instructions.
     - If you have technical issues, you can see my code here; https://github.com/herrjemand/udemy-langchain
 3. Free Deeplearning.ai Mini Courses - https://www.deeplearning.ai/short-courses/
 4. Deeplearning.ai Coursera Paid Courses - https://www.deeplearning.ai/courses/
-5. Deeplearning.ai x Stanford Coursera ML Specialization - https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai
+5. Deeplearning.ai x Stanford Coursera ML Specialization - https://www.coursera.org/specializations/machine-learning-introduction
 6. Deeplearning.ai GetAI Coursera Course - https://www.deeplearning.ai/courses/generative-ai-with-llms/
